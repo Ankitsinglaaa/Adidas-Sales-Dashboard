@@ -4,7 +4,7 @@ This Power BI dashboard provides a comprehensive analysis of Adidas' U.S. sales 
 ---
 ## 📊 Dashboard Overview
 
-![Dashboard Overview](images/dashboard overview.png)
+![Dashboard Overview](images/dashboard_overview.png)
 
 This overview displays the complete visual representation of Adidas’ sales insights, including KPIs, product performance, trends, and filters for detailed analysis.
 ---
@@ -17,24 +17,39 @@ This overview displays the complete visual representation of Adidas’ sales ins
 - **Average Profit Margin:** 2.71% showing moderate profit efficiency.
 ---
 ## 🏪 Store-wise Sales Performance
-![Store Sales](images/regional sales.png)
+![Store Sales](images/regional_sales.png)
 **Insight:**  
+
 Among all listed retailers, **West Gear** and **Foot Locker** generated the highest sales, showing strong brand presence and retail partnerships. Kohl’s and Walmart reflect lower performance, indicating areas for potential improvement.
+
 ---
 ## 🌎 Regional Profit Distribution
-![Regional Profit Distribution](images/profit distribution.png)
+
+![Regional Profit Distribution](images/profit_distribution.png)
+
 **Insight:**  
+
 The **West region** contributes the highest profit at **26.98%**, followed by the **Southeast** and **South**. These regions present strong potential for further expansion. The **Midwest** has the lowest contribution, suggesting opportunity for marketing and distribution strategies.
+
 ---
+
 ## 📈 Sales and Profit Trends Over Time
-![Sales and Profit Trends](images/sales and profit trends.png)
+
+![Sales and Profit Trends](images/sales_and_profit_trends.png)
+
 **Insight:**  
+
 Sales and profit show a consistent upward movement from 2020 to 2021, highlighting Adidas’ increasing brand penetration and customer demand. Temporary dips suggest seasonal or supply-chain variations.
+
 ---
 ## 👟 Product-wise Sales Analysis
-![Product-wise Sales](images/product wise sales.png)
+
+![Product-wise Sales](images/product_wise_sales.png)
+
 **Insight:**  
+
 **Men’s Street Footwear** and **Women’s Apparel** are top-selling categories. Consistent demand for streetwear indicates a strong consumer trend. **Women’s Athletic Footwear** shows growth potential for targeted marketing.
+
 ---
 ## 🛠 Tools Used
 - **Power BI Desktop** – Data modeling & dashboard creation  

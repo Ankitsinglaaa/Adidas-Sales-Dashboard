@@ -3,7 +3,9 @@
 This Power BI dashboard provides a comprehensive analysis of Adidas' U.S. sales performance. It highlights revenue trends, profit contribution, product-wise analysis, store-level sales, and regional growth patterns, helping stakeholders make data-driven business decisions.
 ---
 ## 📊 Dashboard Overview
+
 ![Dashboard Overview](images/dashboard overview.png)
+
 This overview displays the complete visual representation of Adidas’ sales insights, including KPIs, product performance, trends, and filters for detailed analysis.
 ---
 ## 🧾 Key Performance Indicators (KPIs)
